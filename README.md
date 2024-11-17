@@ -6,38 +6,38 @@ without all an we hook used system program database
 Settings Recent Deliveries
 63a5fb00-4fe2-11ef-9258-6ba40f6d9476 ping …2024-08-01 15:45:23
 Completed in 0.01 seconds.
-### Headers Request URL: [chromium|Dashboard|hooks](https://api.github.com/repos/Ariestriputranto/chromium-dashboard/hook) Request method: POST Accept: */* Content-Type: application/json User-Agent: GitHub-Hookshot/9830bd1 X-GitHub-Delivery: 63a5fb00-4fe2-11ef-9258-6ba40f6d9476 X-GitHub-Event: ping X-GitHub-Hook-ID: 493419501 X-GitHub-Hook-Installation-Target-ID: 836632847 X-GitHub-Hook-Installation-Target-Type: repository
+### Headers Request URL:
+| [chromium Dashboard hooks](https://api.github.com/repos/Ariestriputranto/chromium-dashboard/hook) 
+Request method: POST  Accept: */* Content-Type: application/json User-Agent: GitHub-Hookshot/9830bd1 X-GitHub-Delivery: 63a5fb00-4fe2-11ef-9258-6ba40f6d9476 X-GitHub-Event: ping X-GitHub-Hook-ID: 493419501 X-GitHub-Hook-Installation-Target-ID: 836632847 X-GitHub-Hook-Installation-Target-Type: repository
 
-### Payload
-{
+### payload
+{ 
   "zen": "Encourage flow.",
   "hook_id": 493419501,
   "hook": {
     "type": "Repository",
     "id": 493419501,
     "name": "web",
-    "active": true,
-    "events": [
-      "*"
-    ],
+    "active": true },
+    "events":"*" },
     "config": {
       "content_type": "json",
       "insecure_ssl": "0",
-      "url": (hooks)[https://api.github.com/repos/Ariestriputranto/chromium-dashboard/hook]
-    },
+      "url":[hooks](https://api.github.com/repos/Ariestriputranto/chromium-dashboard/hook)
+              },
     "updated_at": "2024-08-01T08:45:22Z",
     "created_at": "2024-08-01T08:45:22Z",
-    "url": (map google play)[https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501]
-    "test_url": "https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501/test",
-    "ping_url": "https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501/pings",
-    "deliveries_url": "https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501/deliveries",
+    "url": [map google play]([https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501)
+    "[test_url](https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501/test)",
+    "[ping_url](https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501/pings)",
+    "[deliveries_url](https://api.github.com/repos/AriesTriputranto/dev.map-google-play-store-/hooks/493419501/deliveries)",
     "last_response": {
       "code": null,
       "status": "unused",
       "message": null
-    }
-  },
-  "repository": {
+              }
+                     },
+ ### "repository": {
     "id": 836632847,
     "node_id": "R_kgDOMd4BDw",
     "name": "dev.map-google-play-store-",
@@ -62,7 +62,8 @@ Completed in 0.01 seconds.
       "received_events_url": "https://api.github.com/users/AriesTriputranto/received_events",
       "type": "User",
       "site_admin": false
-    },
+             },
+    (
     "html_url": "https://github.com/AriesTriputranto/dev.map-google-play-store-",
     "description": "program database used log-in account Application ",
     "fork": false,
@@ -126,26 +127,27 @@ Completed in 0.01 seconds.
     "archived": false,
     "disabled": false,
     "open_issues_count": 0,
-    "license": {
+    )
+  ### "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
       "spdx_id": "Apache-2.0",
       "url": "https://api.github.com/licenses/apache-2.0",
       "node_id": "MDc6TGljZW5zZTI="
-    },
+               },
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
     "topics": [
 
     ],
-    "visibility": "public",
+   ### "visibility": "public",
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
     "default_branch": "main"
-  },
-  "sender": {
+    },
+    ### "sender": 
     "login": "AriesTriputranto",
     "id": 104224708,
     "node_id": "U_kgDOBjZXxA",
@@ -164,6 +166,6 @@ Completed in 0.01 seconds.
     "received_events_url": "https://api.github.com/users/AriesTriputranto99/received_events",
     "type": "User",
     "site_admin": false
-  }
-}
+             }
+
 
