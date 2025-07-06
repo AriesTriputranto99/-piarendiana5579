@@ -37,7 +37,8 @@ Request method: POST  Accept: */* Content-Type: application/json User-Agent: Git
       "message": null
               }
                      },
- ### "repository": {
+ ### "repository": 
+   {
     "id": 836632847,
     "node_id": "R_kgDOMd4BDw",
     "name": "dev.map-google-play-store-",
@@ -61,8 +62,9 @@ Request method: POST  Accept: */* Content-Type: application/json User-Agent: Git
       "events_url": "https://api.github.com/users/AriesTriputranto/events{/privacy}",
       "received_events_url": "https://api.github.com/users/AriesTriputranto/received_events",
       "type": "User",
-      "site_admin": false
-             },
+      "site_admin": fals
+    }. 
+    ,
     (
     "html_url": "https://github.com/AriesTriputranto/dev.map-google-play-store-",
     "description": "program database used log-in account Application ",
@@ -144,11 +146,11 @@ Request method: POST  Accept: */* Content-Type: application/json User-Agent: Git
    ### "visibility": "public",
     "forks": 0,
     "open_issues": 0,
-    "watchers": 0,
+    "watchers": 0,[
     "default_branch": "main"
     },
     ### "sender": 
-    "login": "AriesTriputranto",
+{ "login": "AriesTriputranto",
     "id": 104224708,
     "node_id": "U_kgDOBjZXxA",
     "avatar_url": "https://avatars.githubusercontent.com/u/104224708?v=4",
@@ -166,6 +168,6 @@ Request method: POST  Accept: */* Content-Type: application/json User-Agent: Git
     "received_events_url": "https://api.github.com/users/AriesTriputranto99/received_events",
     "type": "User",
     "site_admin": false
-             }
+  }
 
 
